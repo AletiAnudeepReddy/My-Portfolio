@@ -70,7 +70,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "UG in CBIT-Gandipet,Hyderabad",
-  phoneNo: "+91 9014384195 ",
+  address: "UG  in  CBIT - Gandipet , Hyderabad",
+  phoneNo: "+91  90143 84195",
   email: "aletianudeepreddy8@gmail.com",
 };
