@@ -5,6 +5,7 @@ import About from './components/About'
 import Technologies from './components/Technologies'
 import Languages from './components/Languages'
 import Certifications from './components/Certifications'
+import Projects from './components/Projects'
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
     <Technologies/>
     <Languages/>
     <Certifications/>
+    <Projects/>
     </div>
     </div>
   )
